@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello CB41 2026-07-02!!!";
+echo "Hello CB41 2026-07-02!!";
 
 ?>
